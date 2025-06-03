@@ -1,0 +1,102 @@
+body html {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    background-color: rgb(153, 189, 255);
+}
+
+li {
+    list-style-type: square;
+    background-color: white;
+    padding: 3px;
+    border: 1px solid black;
+}
+
+h2 {
+    background-color: rgb(66, 175, 248);
+    width: 400px;
+    padding: 10px;
+    text-align: center;
+    border: 1px solid black;
+}
+
+#a1 {
+    position: relative;
+    top: 15px;
+    right: auto;
+    bottom: auto;
+    left:auto;
+    width: 100%;
+    padding: 30px;
+    border: 1px solid black;
+    text-shadow: 0px 0px 5px  white;
+}
+
+.p1 {
+    position: static;
+    background-color: black;
+    color:yellow;
+    padding: 10px;
+    border: 1px solid white;
+    box-shadow: 0px 0px 10px yellow;
+}
+
+.voltar1 {
+    background-color: rgb(0, 0, 0);
+    width: 35px;
+    text-align:center;
+    border: 1px solid red;
+    border-radius: 5px;
+} 
+
+a {
+    color: rgb(255, 0, 0);
+    text-shadow: 0px 0px 5px red;
+}
+
+a:hover{
+    color:purple;
+}
+
+h1 {
+    text-align:center;
+    background-color: aqua;
+    padding: 30px;
+    border: 2px solid black;
+    text-decoration: underline;
+}
+
+#a2 {
+     position: relative;
+    top: 15px;
+    right: auto;
+    bottom: auto;
+    left:auto;
+    width: 100%;
+    padding: 30px;
+    border: 1px solid black;
+    text-shadow: 0px 0px 5px  white;
+}
+
+#a3 {
+    position: relative;
+    top: 15px;
+    right: auto;
+    bottom: auto;
+    left:auto;
+    width: 100%;
+    padding: 30px;
+    border: 1px solid black;
+    text-shadow: 0px 0px 5px  white;
+}
+
+.citacoes {
+    background: white;
+    border: 1px solid black;
+}
+
+
+
+
